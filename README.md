@@ -1,4 +1,4 @@
 # estudo-biblico
 Estudo Bíblico
 
-Biblia Online: https://www.bible.com/
+Bíblia Online: https://www.bible.com/
